@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">aDoN</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="button">Ting Tong!</string>
+    <string name="mail">e-mail</string>
+</resources>
